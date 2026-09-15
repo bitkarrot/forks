@@ -6,7 +6,6 @@ ahead of upstream, no unique commits on any other branch, and no open PRs origin
 | Fork | Upstream | Description |
 |---|---|---|
 | `bitkarrot/aegis` | [bitvora/aegis](https://github.com/bitvora/aegis) | Bitcoin/Lightning security tooling (bitvora) |
-| `bitkarrot/awesome-nostr` | [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) | nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things |
 | `bitkarrot/cln-checkout` | [niftynei/cln-checkout](https://github.com/niftynei/cln-checkout) | Use lnsocket to talk to a CLN. Wraps up common invoice monitoring activity |
 | `bitkarrot/dub` | [dubinc/dub](https://github.com/dubinc/dub) | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more. |
 | `bitkarrot/file-drop` | [besoeasy/Originless](https://github.com/besoeasy/Originless) | One all-in-one storage backend you can drop into anything: your own apps, screenshot tools, pastebin-style pastes, Nostr clients, Reddit posts, forum embeds—anything that needs durable, anonymous file hosting. One Originless to rule them all and keep you anonymous. |
