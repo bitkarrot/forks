@@ -36,3 +36,33 @@ ahead of upstream, no unique commits on any other branch, and no open PRs origin
 | `bitkarrot/zaplist` | [HiveTalk/zaplist](https://github.com/HiveTalk/zaplist) | zaplist - create a pretty avatar grid of who zapped you in last X days on nostr |
 | `bitkarrot/zapnews` | [HeatherLarson/zapnews](https://github.com/HeatherLarson/zapnews) | Zap news is the Nostr version of Stacker News. |
 | `bitkarrot/zerobyte` | [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | Backup automation for self-hosters. Built on top of restic |
+
+## Deleted forks that had local changes
+
+These forks contained commits not in upstream (unique branches or work ahead) and were
+deleted during cleanup — upstream links kept here for reference.
+
+| Fork | Upstream |
+|---|---|
+| `bitkarrot/bahk-esplora` | [Blockstream/esplora](https://github.com/Blockstream/esplora) |
+| `bitkarrot/bitcoinhk.github.io` | [bitcoinorghk/bitcoinhk.github.io](https://github.com/bitcoinorghk/bitcoinhk.github.io) |
+| `bitkarrot/BountyAlertsDiscord` | [plebnet-dev/BountyAlertsDiscord](https://github.com/plebnet-dev/BountyAlertsDiscord) |
+| `bitkarrot/btcpp-web` | [base58btc/btcpp-web](https://github.com/base58btc/btcpp-web) |
+| `bitkarrot/electrum` | [spesmilo/electrum](https://github.com/spesmilo/electrum) |
+| `bitkarrot/Floresta` | [getfloresta/Floresta](https://github.com/getfloresta/Floresta) |
+| `bitkarrot/flowbite-astro-admin-dashboard` | [themesberg/flowbite-astro-admin-dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) |
+| `bitkarrot/forms` | [BoltHive/forms](https://github.com/BoltHive/forms) |
+| `bitkarrot/interfarce` | [Stackerstan/interfarce](https://github.com/Stackerstan/interfarce) |
+| `bitkarrot/khatru` | [fiatjaf/khatru](https://github.com/fiatjaf/khatru) |
+| `bitkarrot/liana` | [wizardsardine/liana](https://github.com/wizardsardine/liana) |
+| `bitkarrot/lightning` | [ElementsProject/lightning](https://github.com/ElementsProject/lightning) |
+| `bitkarrot/lightning-browser-extension` | [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension) |
+| `bitkarrot/lnurlp` | [lnbits/lnurlp](https://github.com/lnbits/lnurlp) |
+| `bitkarrot/nostr-forms` | [formstr-hq/nostr-forms](https://github.com/formstr-hq/nostr-forms) |
+| `bitkarrot/nostrogen` | [tonyinit/nostrogen](https://github.com/tonyinit/nostrogen) |
+| `bitkarrot/react-lightning-gifts` | [mikelseverson/react-lightning-gifts](https://github.com/mikelseverson/react-lightning-gifts) |
+| `bitkarrot/relay-tools-images` | [relaytools/relay-tools-images](https://github.com/relaytools/relay-tools-images) |
+| `bitkarrot/synapse-docker-compose` | [nolim1t/synapse-docker-compose](https://github.com/nolim1t/synapse-docker-compose) |
+| `bitkarrot/timechain-docs` | [timechain-academy/timechain-docs](https://github.com/timechain-academy/timechain-docs) |
+| `bitkarrot/timechain-web` | [timechain-academy/timechain-web](https://github.com/timechain-academy/timechain-web) |
+| `bitkarrot/vercelfastapi` | [itsdeka/vercelfastapi](https://github.com/itsdeka/vercelfastapi) |
